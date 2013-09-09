@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "be.hostingbvba.demo10"
+        id        = "be.my-demo.www"
         version   = "1.0.0">
 
     <name>My-Demo</name>
@@ -51,7 +51,7 @@
         <gap:plugin name="Example" />
         A list of available plugins are available at https://build.phonegap.com/docs/plugins
     -->
-	
+
 	<!--<gap:plugin name="GenericPush" /> <!-- latest release -->
 	<gap:plugin name="com.adobe.plugins.pushplugin" />
 
